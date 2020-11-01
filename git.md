@@ -26,4 +26,7 @@ git
 
 13、从仓库里面删除东西  git rm a.php 
 
-​		如果想将这个文件在 本地保留 git rm --cached a.php
+​		如果想将这个文件在 本地保留 git rm --cached a.php  然后跳过 git add 使用git commit -m ''
+
+14、版本库中修改资料名称
+
