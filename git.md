@@ -19,3 +19,11 @@ git
 9、克隆一个项目  不用git init 不要在已经有git文件夹里面克隆  直接 git clone 
 
 10、rm -rf * 删除所有目录
+
+11、查看本地状态 git status
+
+12、新建一个空白文件  touch a.php
+
+13、从仓库里面删除东西  git rm a.php 
+
+​		如果想将这个文件在 本地保留 git rm --cached a.php
